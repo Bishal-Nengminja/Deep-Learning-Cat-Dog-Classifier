@@ -1,5 +1,7 @@
 # Deep-Learning-Cat-Dog-Classifier
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 ## 🌟 Project Overview
 
 This project develops a robust **Deep Learning-based Cat and Dog Image Classifier** utilizing Convolutional Neural Networks (CNNs) and transfer learning. By accurately distinguishing between images of cats and dogs, this system showcases the power of deep learning for computer vision tasks and handles a substantial image dataset, aiming for high classification accuracy.
